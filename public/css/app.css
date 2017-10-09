@@ -1,0 +1,21 @@
+i.code {
+  font-size: 2em;
+}
+
+#head{
+  margin-top: 7.0em;
+}
+#showpage {
+  margin-top: 6.0em;
+}
+
+.ui .red #del{
+  display: inline;
+}
+
+#mainhead {
+  margin-top: 4.0em;
+}
+ #homediv {
+   margin-top: 7.0em;
+ }
